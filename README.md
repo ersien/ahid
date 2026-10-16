@@ -39,7 +39,11 @@ Klasördeki dosyaları herhangi bir statik barındırmaya koymak yeterli (kendi 
 
 Ahid, tarafların neyde anlaştığının kaydıdır. Hukuki bir sözleşmenin yerini tutmaz.
 
-## Lisanslar
+## Lisans
+
+Kod [MIT lisansı](LICENSE) ile açıktır: kullanabilir, değiştirebilir ve dağıtabilirsiniz.
+
+Kişisel fotoğraf (`img/ersin.webp`, `img/ersin-og.jpg`) ve kişisel logo (`img/logo.jpg`, ayrıca `index.html` içinde hizmet veren mührü olarak gömülü) lisansa dahil değildir. Kendi sitenize koyarken bunları kendinizinkiyle değiştirin. Bunun için `index.html` içindeki `OWNER` bilgisini (ad, site, fotoğraf, logo) güncellemeniz yeterli.
 
 El sıkışma simgesi [Lucide](https://lucide.dev) projesinden alınmıştır (ISC lisansı). Resim çıktısı için [html2canvas](https://html2canvas.hertzen.com) kullanılır (MIT lisansı).
 
